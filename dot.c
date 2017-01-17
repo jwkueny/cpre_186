@@ -5,4 +5,4 @@ double dot(double a[], double b[], int length) {
 		sum = sum + (a[i]*b[i]);
 		}
 	return sum;
-	}
+}
